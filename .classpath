@@ -8,5 +8,9 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+<<<<<<< HEAD
 	<classpathentry kind="output" path="build/classes"/>
+=======
+	<classpathentry kind="output" path="bin"/>
+>>>>>>> branch 'master' of https://github.com/cainiao-zz66/git.git
 </classpath>

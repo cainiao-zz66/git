@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>git</name>
+=======
+	<name>git_clone</name>
+>>>>>>> branch 'master' of https://github.com/cainiao-zz66/git.git
 	<comment></comment>
 	<projects>
 	</projects>

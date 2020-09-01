@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
     <wb-module deploy-name="git">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <property name="context-root" value="git"/>
         <property name="java-output-path" value="/git/build/classes"/>
+=======
+    <wb-module deploy-name="git_clone">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="git_clone"/>
+        <property name="java-output-path" value="/git_clone/bin"/>
+>>>>>>> branch 'master' of https://github.com/cainiao-zz66/git.git
     </wb-module>
 </project-modules>
